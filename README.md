@@ -61,7 +61,8 @@ The Football Strategy Analysis project focuses on analyzing such as <b>Squad and
 # Dashboard
 
 
-// <a href="">Click to view <b>Dataset</b></a>
+// <a href="https://github.com/Jai-sanjai/Football-Game-Dashboard/blob/main/2021-2022%20Football%20Player%20Stats.csv">Click to view <b>Dataset</b></a>
 
-![Screenshot 2024-09-24 201713](https://github.com/user-attachments/assets/0b500b8f-ef06-4159-8710-c70d6a2ecc00)
+![Screenshot 2024-09-24 201713](https://github.com/user-attachments/assets/decc7b64-2efc-47b0-90a6-154244a4a90d)
+
 
